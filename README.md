@@ -2,4 +2,4 @@
 
 This repo was used to learn git from amingoscode
 
-![Uploading profile_pic-min.jpg…]()
+![Alt text](profile_pic-min.jpg)
